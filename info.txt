@@ -1,1 +1,6 @@
 asdfghjkl;
+
+
+ git config --global user.email "ekanthvasan2531@gmail.com"
+  git config --global user.name "ekanthvasan"
+  asdfghj
